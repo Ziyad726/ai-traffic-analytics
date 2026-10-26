@@ -1,0 +1,33 @@
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.key
+*.pem
+
+# Logs
+*.log
+
+# Large datasets and model weights
+*.pt
+*.pth
+*.onnx
+*.tar
+*.tar.gz
+*.zip
+*.mp4
+
+# Local experiment artifacts
+raw_data/
+datasets/
+training_runs/
+tracking_runs/
+model_weights/
