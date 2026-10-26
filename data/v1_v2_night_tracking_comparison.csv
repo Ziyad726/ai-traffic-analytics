@@ -1,0 +1,3 @@
+Model,Tracked_Boxes,Unique_Track_IDs,Empty_Frames,TP,FP,FN,Precision,Recall,Box_F1,MOTA,IDF1,ID_Precision,ID_Recall,ID_Switches,Fragments
+V1,564,38,0,206,358,490,36.52,29.6,32.7,-23.56,26.35,29.43,23.85,12,23
+V2,346,34,0,198,148,498,57.23,28.45,38.0,6.18,33.01,49.71,24.71,7,25

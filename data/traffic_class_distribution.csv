@@ -1,0 +1,10 @@
+Class,Annotations
+Pedestrian,0
+Cyclist,0
+Motorbike,11
+Small_motorised_vehicle,0
+Car,982
+Medium_vehicle,114
+Large_vehicle,155
+Bus,39
+Emergency_vehicle,0
