@@ -311,7 +311,8 @@ with tab2:
                 "Precision (%)",
                 "Recall (%)",
                 "F1 (%)"
-            ]
+            ],
+            stack=False
         )
 
         st.dataframe(
@@ -472,7 +473,8 @@ with tab2:
             st.bar_chart(
                 test_per_video,
                 x="Video",
-                y=["V1_F1", "V2_F1"]
+                y=["V1_F1", "V2_F1"],
+                stack=False
             )
 
             st.dataframe(
