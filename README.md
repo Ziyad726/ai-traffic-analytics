@@ -3,6 +3,18 @@
 Computer vision research prototype for traffic monitoring
 using fine-tuned YOLO11s, ByteTrack, and Streamlit.
 
+
+## Live Dashboard
+
+Explore the interactive AI Traffic Analytics dashboard:
+
+[Launch Live Dashboard](https://ai-traffic-analytics-52nzovas7wybhuh4zawjyf.streamlit.app)
+
+The dashboard presents vehicle detection results,
+multi-object tracking evaluation, and YOLO11s V1 vs V2 comparisons.
+
+
+
 ## Project Overview
 
 This project explores vehicle detection, multi-object
